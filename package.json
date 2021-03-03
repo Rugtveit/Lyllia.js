@@ -1,0 +1,28 @@
+{
+  "name": "lyllia",
+  "version": "1.0.0",
+  "description": "Modular discord.js bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rugtveit/Lyllia.js.git"
+  },
+  "keywords": [
+    "Discord.js",
+    "bot",
+    "lyllia"
+  ],
+  "author": "Lillie Rugtveit",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/Rugtveit/Lyllia.js/issues"
+  },
+  "homepage": "https://github.com/Rugtveit/Lyllia.js#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0"
+  }
+}
